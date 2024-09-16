@@ -36,7 +36,7 @@ This script automates the installation of Kali NetHunter on Termux, a Linux envi
 ## Credits
 
 * **Original Script:** The base of this script was adapted from the official NetHunter installation guide and other publicly available scripts.
-* **Contributor:** un1xr00t (Your GitLab username) 
+* **Contributor:** un1xr00t
 
 ## Disclaimer
 
