@@ -100,9 +100,9 @@ function set_strings() {
     ####
 
 
-    CHROOT=chroot/kali-${SYS_ARCH}
+    CHROOT=chroot/kali-${SYS_ARCH} # Modified Line
     IMAGE_NAME=kali-nethunter-rootfs-${wimg}-${SYS_ARCH}.tar.xz  # Modified line
-    SHA_NAME=kali-nethunter-rootfs-${wimg}-${SYS_ARCH}.sha512sum
+    SHA_NAME=kali-nethunter-rootfs-${wimg}-${SYS_ARCH}.tar.xz.sha512sum # Modified Line
 }
 
 function prepare_fs() {
